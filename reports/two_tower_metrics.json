@@ -1,0 +1,36 @@
+[
+  {
+    "method":"two_tower",
+    "target_split":"valid",
+    "history_splits":"train",
+    "k":10,
+    "users":3342,
+    "hit":0.0341113106,
+    "mrr":0.015866604,
+    "ndcg":0.0200173178,
+    "recall@10":0.0341113106,
+    "hit@10":0.0341113106,
+    "ndcg@10":0.0200173178,
+    "mrr@10":0.015866604,
+    "coverage":0.4824318989,
+    "novelty":8.7083703901,
+    "eval_split":"valid"
+  },
+  {
+    "method":"two_tower",
+    "target_split":"test",
+    "history_splits":"train+valid",
+    "k":10,
+    "users":3342,
+    "hit":0.026929982,
+    "mrr":0.0123982408,
+    "ndcg":0.0157382113,
+    "recall@10":0.026929982,
+    "hit@10":0.026929982,
+    "ndcg@10":0.0157382113,
+    "mrr@10":0.0123982408,
+    "coverage":0.4613764969,
+    "novelty":8.7451583981,
+    "eval_split":"test"
+  }
+]

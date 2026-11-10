@@ -1,0 +1,2 @@
+method_a,method_b,k,users,content_hit_rate,hybrid_hit_rate,hit_rate_diff,bootstrap_ci_low,bootstrap_ci_high,bootstrap_p_two_sided,mcnemar_b_hybrid_only,mcnemar_c_content_only,mcnemar_stat,mcnemar_p
+content_tfidf,hybrid,10,2000,0.08449999988079071,0.09350000321865082,0.008999999612569809,0.0035000001080334187,0.014999999664723873,0.0,28,10,7.605263157894737,0.0058198169540098505

@@ -1,0 +1,16 @@
+{
+  "method_a": "content_tfidf",
+  "method_b": "hybrid",
+  "k": 10,
+  "users": 2000,
+  "content_hit_rate": 0.08449999988079071,
+  "hybrid_hit_rate": 0.09350000321865082,
+  "hit_rate_diff": 0.008999999612569809,
+  "bootstrap_ci_low": 0.0035000001080334187,
+  "bootstrap_ci_high": 0.014999999664723873,
+  "bootstrap_p_two_sided": 0.0,
+  "mcnemar_b_hybrid_only": 28,
+  "mcnemar_c_content_only": 10,
+  "mcnemar_stat": 7.605263157894737,
+  "mcnemar_p": 0.0058198169540098505
+}
